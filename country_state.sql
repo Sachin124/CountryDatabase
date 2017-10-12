@@ -38,7 +38,8 @@ CREATE TABLE `state` (
 
 LOCK TABLES `state` WRITE;
 /*!40000 ALTER TABLE `state` DISABLE KEYS */;
-INSERT INTO `state` VALUES (1,'Andaman and Nicobar Islands',1),(2,'Andhra Pradesh',1),(3,'Arunachal Pradesh',1),(4,'Assam',1),(5,'Bihar',1),(6,'Chandigarh',1),(7,'Chhattisgarh',1),(8,'Dadra and Nagar Haveli',1),(9,'Daman and Diu',1),(10,'Goa',1),(11,'Gujarat',1),(12,'Haryana',1),(13,'Himachal Pradesh',1),(14,'Jammu and Kashmir',1),(15,'Jharkhand',1),(16,'Karnataka',1),(17,'Kerala',1),(18,'Lakshadweep',1),(19,'Madhya Pradesh',1),(20,'Maharashtra',1),(21,'Manipur',1),(22,'Meghalaya',1),(23,'Mizoram',1),(24,'Nagaland',1),(25,'NCT of Delhi',1),(26,'Odisha',1),(27,'Puducherry',1),(28,'Punjab',1),(29,'Rajasthan',1),(30,'Sikkim',1),(31,'Tamil Nadu',1),(32,'Tripura',1),(33,'Uttar Pradesh',1),(34,'Uttarakhand',1),(35,'West Bengal',1);
+INSERT INTO `state` VALUES (1,'Andaman and Nicobar Islands',1),(2,'Andhra Pradesh',1),(3,'Arunachal Pradesh',1),(4,'Assam',1),(5,'Bihar',1),(6,'Chandigarh',1),(7,'Chhattisgarh',1),(8,'Dadra and Nagar Haveli',1),(9,'Daman and Diu',1),(10,'Goa',1),(11,'Gujarat',1),(12,'Haryana',1),(13,'Himachal Pradesh',1),(14,'Jammu and Kashmir',1),(15,'Jharkhand',1),(16,'Karnataka',1),(17,'Kerala',1),(18,'Lakshadweep',1),(19,'Madhya Pradesh',1),(20,'Maharashtra',1),(21,'Manipur',1),(22,'Meghalaya',1),(23,'Mizoram',1),
+(24,'Nagaland',1),(25,'NCT of Delhi',1),(26,'Odisha',1),(27,'Puducherry',1),(28,'Punjab',1),(29,'Rajasthan',1),(30,'Sikkim',1),(31,'Tamil Nadu',1),(32,'Tripura',1),(33,'Uttar Pradesh',1),(34,'Uttarakhand',1),(35,'West Bengal',1);
 /*!40000 ALTER TABLE `state` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
